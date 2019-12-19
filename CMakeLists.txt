@@ -16,7 +16,7 @@ if(NOT CMAKE_BUILD_TYPE AND NOT CMAKE_CONFIGURATION_TYPES)
 endif()
 
 project(hello)
-
+#
 #----------------------------- Utils -------------------------------------------
 
 function(simple_executable name)
