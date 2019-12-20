@@ -3,6 +3,6 @@
 #include "echo.h"
 #include <iostream>
 
-void echo(const char* word) {
-  std::cout << "echo:" << word << std::endl;
+void echo(const char* name) {
+  std::cout << "echo: " << name << ":hi!" << std::endl;
 }

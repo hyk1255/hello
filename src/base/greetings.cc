@@ -4,5 +4,5 @@
 #include <iostream>
 
 void greetings() {
-  std::cout << "greeting:hello!" << std::endl;
+  std::cout << "--:hello!" << std::endl;
 }

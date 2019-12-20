@@ -1,4 +1,4 @@
 build/
 build/*
 src/cmake-build-debug/*
-.idea/
+.idea/*
